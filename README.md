@@ -6,12 +6,6 @@ Whether you're a curious investor or an ML enthusiast, this project shows how to
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Try it out here!](https://bullgorithm.streamlit.app)
-
----
-
 ## 🧠 Tech Stack
 
 - 🐍 **Python 3.10**
@@ -23,7 +17,15 @@ Whether you're a curious investor or an ML enthusiast, this project shows how to
 
 ## 📷 Screenshots
 
-![screenshot](https://github.com/dakshkhare/Bullgorithm/assets/your-screenshot-placeholder.png)
+<img width="1362" height="852" alt="Image" src="https://github.com/user-attachments/assets/aefb67b5-94e3-41c4-a44f-9d28f11abf6d" />
+
+<img width="1289" height="866" alt="Image" src="https://github.com/user-attachments/assets/70534a57-cc34-46a0-bf9e-074515b3ed0f" />
+
+<img width="1269" height="873" alt="Image" src="https://github.com/user-attachments/assets/de639f4d-35c6-4a2d-b0ce-eb086a164eca" />
+
+<img width="1339" height="878" alt="Image" src="https://github.com/user-attachments/assets/eed8387b-c9da-4aef-a196-9292dca79006" />
+
+<img width="1258" height="876" alt="Image" src="https://github.com/user-attachments/assets/6d6e047d-899a-4768-a8f8-0c0fb2860d01" />
 
 ---
 
